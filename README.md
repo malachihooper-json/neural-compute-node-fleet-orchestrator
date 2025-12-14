@@ -1,6 +1,6 @@
 # Orchestrator Core
 
-Plug-and-play distributed system coordinator for compute node fleets.
+Plug-and-play distributed system coordinator for compute node fleets with centralized node registry. Ligtweight and designed for .net.
 
 ## Quick Start
 
@@ -43,3 +43,4 @@ await orchestrator.DistributeWorkAsync(workItems);
 
 - .NET 8.0+
 - Network access for node communication
+
