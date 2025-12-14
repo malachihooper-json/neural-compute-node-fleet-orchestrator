@@ -1,4 +1,4 @@
-# Orchestrator Core
+# Comprehensive computational node orchestration and delegation (.NET)
 
 Plug-and-play distributed system coordinator for compute node fleets with centralized node registry. Ligtweight and designed for .net.
 
@@ -43,4 +43,5 @@ await orchestrator.DistributeWorkAsync(workItems);
 
 - .NET 8.0+
 - Network access for node communication
+
 
